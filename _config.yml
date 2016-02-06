@@ -1,0 +1,28 @@
+name: NexusHealing
+favicon: null
+layout_spectrum: 0.7372903721407056
+typography_spectrum: 0.6871147353667766
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.643657433334738
+  lightness: 0.5393229927867651
+  saturation: 0.20853328867815435
+  rhythmicContrast: 0.5571583043783903
+purpose: []
